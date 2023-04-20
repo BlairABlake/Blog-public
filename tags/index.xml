@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on BlairABlake Blog</title>
-    <link>https://main.d1x5tkw2pbi9nc.amplifyapp.com/tags/</link>
+    <link>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/tags/</link>
     <description>Recent content in Tags on BlairABlake Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://main.d1x5tkw2pbi9nc.amplifyapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game</title>
-      <link>https://main.d1x5tkw2pbi9nc.amplifyapp.com/tags/game/</link>
+      <link>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/tags/game/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://main.d1x5tkw2pbi9nc.amplifyapp.com/tags/game/</guid>
+      <guid>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New</title>
-      <link>https://main.d1x5tkw2pbi9nc.amplifyapp.com/tags/new/</link>
+      <link>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/tags/new/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://main.d1x5tkw2pbi9nc.amplifyapp.com/tags/new/</guid>
+      <guid>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>https://main.d1x5tkw2pbi9nc.amplifyapp.com/tags/photos/</link>
+      <link>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/tags/photos/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://main.d1x5tkw2pbi9nc.amplifyapp.com/tags/photos/</guid>
+      <guid>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/tags/photos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://main.d1x5tkw2pbi9nc.amplifyapp.com/tags/python/</link>
+      <link>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/tags/python/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://main.d1x5tkw2pbi9nc.amplifyapp.com/tags/python/</guid>
+      <guid>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React</title>
-      <link>https://main.d1x5tkw2pbi9nc.amplifyapp.com/tags/react/</link>
+      <link>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/tags/react/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://main.d1x5tkw2pbi9nc.amplifyapp.com/tags/react/</guid>
+      <guid>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/tags/react/</guid>
       <description></description>
     </item>
     

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BlairABlake Blog</title>
-    <link>https://main.d1x5tkw2pbi9nc.amplifyapp.com/</link>
+    <link>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/</link>
     <description>Recent content on BlairABlake Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://main.d1x5tkw2pbi9nc.amplifyapp.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://main.d1x5tkw2pbi9nc.amplifyapp.com/blog/post-1/</link>
+      <link>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/blog/post-1/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://main.d1x5tkw2pbi9nc.amplifyapp.com/blog/post-1/</guid>
+      <guid>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/blog/post-1/</guid>
       <description>We have come full circle.</description>
     </item>
     
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://main.d1x5tkw2pbi9nc.amplifyapp.com/blog/post-2/</link>
+      <link>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/blog/post-2/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://main.d1x5tkw2pbi9nc.amplifyapp.com/blog/post-2/</guid>
+      <guid>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/blog/post-2/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
 Strong emphasis, aka bold, with asterisks or underscores.
 Combined emphasis with asterisks and underscores.
@@ -35,10 +35,10 @@ You can use numbers for reference-style link definitions</description>
     
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://main.d1x5tkw2pbi9nc.amplifyapp.com/blog/post-3/</link>
+      <link>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/blog/post-3/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://main.d1x5tkw2pbi9nc.amplifyapp.com/blog/post-3/</guid>
+      <guid>http://blairablakeblog.s3-website-ap-northeast-1.amazonaws.com/blog/post-3/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
 Strong emphasis, aka bold, with asterisks or underscores.
 Combined emphasis with asterisks and underscores.
